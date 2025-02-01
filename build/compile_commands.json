@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/jack/Desktop/code/C++/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin23-gcc-14   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/json_test.dir/json_test.c.o -c /Users/jack/Desktop/code/C++/conan-test/json_test.c",
+  "file": "/Users/jack/Desktop/code/C++/conan-test/json_test.c",
+  "output": "CMakeFiles/json_test.dir/json_test.c.o"
+}
+]
